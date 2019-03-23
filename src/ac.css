@@ -18,6 +18,6 @@
 }
 @keyframes dash {
  0% { stroke-dashoffset: 187; }
- 50% { stroke-dashoffset: 187/4; transform:rotate(135deg);}
+ 50% { stroke-dashoffset: 47; transform:rotate(135deg);}
  100% { stroke-dashoffset: 187;transform:rotate(450deg);}
 }
