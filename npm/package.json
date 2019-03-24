@@ -1,0 +1,25 @@
+{
+  "name": "activity-indicator-material",
+  "version": "1.0.0",
+  "description": "Material Design Responsive Activity Indicator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejaswigowda/activityIndicator-material.git"
+  },
+  "keywords": [
+    "html5",
+    "material",
+    "js",
+    "frontend"
+  ],
+  "author": "tejaswigowda <tejaswi@foxyninjastudios.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejaswigowda/activityIndicator-material/issues"
+  },
+  "homepage": "https://github.com/tejaswigowda/activityIndicator-material#readme"
+}
