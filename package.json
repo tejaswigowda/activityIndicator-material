@@ -1,6 +1,6 @@
 {
   "name": "activity-indicator-material",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Material Design Responsive Activity Indicator",
   "main": "index.js",
   "scripts": {
