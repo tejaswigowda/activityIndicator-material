@@ -14,9 +14,9 @@
     <script src='ac.js'> </script>
     <script>
       function closeDemo(){
-
-var x = document.getElementsByClassName("cd");
-for  (i=0; i< x.length;i++) {x[i].parentNode.removeChild(x[i])}
+        activityIndicator.hide();
+        var x = document.getElementsByClassName("cd");
+        for  (i=0; i< x.length;i++) {x[i].parentNode.removeChild(x[i])}
       }
       function showMe(){
         activityIndicator.show();
