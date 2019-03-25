@@ -1,6 +1,6 @@
 # Activity Indicator
 Material Design Responsive Activity Indicator
 
-{::nomarkdown}
+{:nomarkdown}
 <iframe src='https://tejaswigowda.github.io/activityIndicator-material/embed.html'></iframe>
 {:/}
